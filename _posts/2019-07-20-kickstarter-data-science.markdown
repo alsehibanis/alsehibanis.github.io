@@ -26,8 +26,9 @@ This blog aims to answer three questions:
 2. Q2: What are the top five categories that were most funded on Kickstarter?
 3. Q3: What are the top five subcategories that were most funded on Kickstarter?
 
-The dataset that I will be using contains of over 300,000 Kickstarter projects. This dataset is provided by **Mickaël Mouillé** on Kaggle [dataset](https://www.kaggle.com/kemical/kickstarter-projects)
+The dataset that I will be using contains of over 300,000 Kickstarter projects. This dataset is provided by **Mickaël Mouillé** on [Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
 
+The technical part is available on [github](https://github.com/alsehibanis/kickstarter_data_science)
 ### Methodology
 In order to answer the three questions above the CRSIP-DM methodology was followed. CRISP-DM stands for cross-industry process for data mining and provides a structured approach to plan a data mining approach.
 
