@@ -6,7 +6,7 @@ categories: Datascience
 author: "Sultan Alsehibani"
 ---
 {:refdef: style="text-align: center;"}
-![Cover](/assets/starbucks/cover.png)
+![Cover](/assets/starbucks/cover.jpg)
 {: refdef}
 
 ### Introduction
@@ -22,6 +22,9 @@ The data set contains simulated data that mimics customer behavior on the Starbu
 Not all users receive the same offer, and that is a challenge to solve with this data set.
 
 This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
+
+**Note:** The notebook for this project can be found (here)[https://github.com/alsehibanis/Starbucks_Challenge]
+
 
 ### Problem Statement
 
