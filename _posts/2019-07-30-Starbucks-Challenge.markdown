@@ -85,8 +85,15 @@ We need to clean the portfolio as follows:
 * income (float) - customer's income
 
 #### Visualizing the Profile Data
+
+From the age bar chart below we can see that there is an outlier at age 118. This is due to assigning the age 118 to any person who does not want to declare their age.
 {:refdef: style="text-align: center;"}
-![Profile](/assets/starbucks/profile.png)
+![Profile](/assets/starbucks/age.png)
+{: refdef}
+
+From the income chart below we can see that their are no outliers and that the income chart does not follow a normal distribution.
+{:refdef: style="text-align: center;"}
+![Profile](/assets/starbucks/income.png)
 {: refdef}
 
 
@@ -184,8 +191,7 @@ Below is a chart the shows the contribution of each feature:
 ![Top Features](/assets/starbucks/top.png)
 {: refdef}
 
-##Conclusion
-
+## Conclusion
 
 In this project I have built a model that predicts wither a customer will be influenced by an offer or not. This project followed four main steps. First, cleaning the data and performing the necessary preprocessing transformations. Second, by understanding the data we have created a methodology to assess wither or not a customer was influenced by an offer. Next, we have compared the performance of three supervised learners to the naive predictor. The three supervised learners are decision trees, random forest, and Adaboost. Finally,  Random forest was chosen and its hyper-parameters were refined using grid search.
 
