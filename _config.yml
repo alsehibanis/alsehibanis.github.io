@@ -24,7 +24,8 @@ github_username:  alsehibanis
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: huangyz0918/moving
+#theme: minima
 plugins:
   - jekyll-feed
 
